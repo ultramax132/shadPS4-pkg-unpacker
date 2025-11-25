@@ -16,7 +16,7 @@ A standalone console program for unpacking PS4 .pkg game files for use with the 
 ## Important
 
 - Please, don't build emulator from this project, use only a prebuilt pkg_unpacker from releases or build it yourself following a instruction specially for your system
-- If you want a PS4 emulator use original shadPS4, shadPS4Plus or other forks from community
+- If you want a PS4 emulator use original [shadPS4](https://github.com/shadps4-emu/shadPS4), [shadPS4Plus](https://github.com/AzaharPlus/shadPS4Plus) or other forks from community
 - Forked from shadPS4Plus
 - Created using by AI
 
