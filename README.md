@@ -32,6 +32,8 @@ A standalone console program for unpacking PS4 .pkg game files for use with the 
 ### Build Instructions
 
 ```bash
+git clone https://github.com/ultramax132/shadPS4-pkg-unpacker
+cd shadPS4-pkg-unpacker
 cd pkg_unpacker
 mkdir build
 cd build
